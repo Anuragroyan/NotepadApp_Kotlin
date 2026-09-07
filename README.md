@@ -1,3 +1,5 @@
+📝 Notepad App 
+
 # 📝 Notepad App is a modern note-taking application that allows users to create, read, update, and delete notes with ease.
 It supports color-coded notes using customizable Hex colors, making information more organized, visually accessible, and easy to manage.
 
