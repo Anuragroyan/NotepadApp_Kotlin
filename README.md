@@ -132,3 +132,32 @@ Notepad App can be used for:
 * 📋 Personal reminders
 * 🗂️ Categorized information
 * 📝 Daily note-taking
+
+For example, users can use different colors to distinguish work, study, personal, and important notes.
+
+🎯 Project Goals
+
+* Build a practical note-taking application
+* Implement complete CRUD functionality
+* Practice modern Android development
+* Implement Firebase Firestore integration
+* Implement custom Hex color handling
+* Practice Kotlin Coroutines
+* Build a clean Jetpack Compose interface
+* Apply MVVM and Repository architecture
+
+💼 Portfolio Highlights
+
+Notepad App demonstrates practical experience with:
+
+* Kotlin
+* Jetpack Compose
+* Firebase Firestore
+* CRUD Operations
+* MVVM Architecture
+* Repository Pattern
+* Kotlin Coroutines
+* State Management
+* Custom UI Components
+* Hex Color Customization
+* Modern Android Development
